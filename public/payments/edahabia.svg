@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 72" role="img" aria-label="Edahabia">
+  <defs>
+    <linearGradient id="edag" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00843d"/>
+      <stop offset="1" stop-color="#00a651"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="118" height="70" rx="10" fill="#ffffff"/>
+  <rect x="1" y="1" width="118" height="70" rx="10" fill="none" stroke="url(#edag)" stroke-width="2.5"/>
+  <rect x="1" y="1" width="118" height="16" rx="10" fill="url(#edag)"/>
+  <rect x="1" y="9" width="118" height="8" fill="url(#edag)"/>
+  <text x="60" y="45" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#00843d" letter-spacing="0.5">Edahabia</text>
+  <text x="60" y="59" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="7" font-weight="600" fill="#5a6b5f" letter-spacing="0.8">CARTE BLEUE ALGERIENNE</text>
+</svg>
