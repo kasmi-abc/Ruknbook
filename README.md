@@ -60,7 +60,7 @@ AUTH_SECRET="..."
 ## Default Admin Account
 
 ```
-admin@ruknbooks.dz / admin123
+admin@ruknbooks.dz / *******
 ```
 
 Admin panel: `/en/admin` (or `/ar/admin`, `/fr/admin`)
